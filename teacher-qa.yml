@@ -1,0 +1,11 @@
+build:
+  version: "11.11.11"
+
+teacher:
+  message: "Teacher QA! API environment"
+  contactDetails:
+    name: "Kuku Mwanjeya - Teacher QA Lead"
+    email: "benard.mwanjeya@gmail.com"
+  onCallSupport:
+    - (263) 772 447 868
+    - (263) 772 447 865

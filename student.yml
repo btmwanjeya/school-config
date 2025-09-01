@@ -1,0 +1,11 @@
+build:
+  version: "1.0.1"
+
+student:
+  message: "Hello, World!"
+  contactDetails:
+    name: "Benard Mwanjeya"
+    email: "benard.mwanjeya@gmail.com"
+  onCallSupport:
+    - (263) 772 447 868
+    - (263) 772 447 865

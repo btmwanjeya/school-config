@@ -1,0 +1,11 @@
+build:
+  version: "3.0.3"
+
+student:
+  message: "Production APIs!"
+  contactDetails:
+    name: "Benard Mwanjeya - Lead Developer"
+    email: "benard.mwanjeya@gmail.com"
+  onCallSupport:
+    - (263) 772 222 868
+    - (263) 772 222 865

@@ -1,0 +1,11 @@
+build:
+  version: "8.8.8"
+
+subject:
+  message: "Subject Default! API environment"
+  contactDetails:
+    name: "Tayana Mwanjeya - Teacher Default Lead"
+    email: "tayana@gmail.com"
+  onCallSupport:
+    - (263) 772 000 868
+    - (263) 772 000 865

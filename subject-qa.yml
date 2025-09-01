@@ -1,0 +1,11 @@
+build:
+  version: "9.9.9"
+
+subject:
+  message: "Subject QA APIs!"
+  contactDetails:
+    name: "Benard Mwanjeya - subject QA Lead"
+    email: "benard.mwanjeya@gmail.com"
+  onCallSupport:
+    - (263) 772 666 868
+    - (263) 772 666 865

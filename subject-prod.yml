@@ -1,0 +1,11 @@
+build:
+  version: "8.8.8"
+
+subject:
+  message: "Subject Production APIs!"
+  contactDetails:
+    name: "Benard Mwanjeya - subject Lead Developer"
+    email: "benard.mwanjeya@gmail.com"
+  onCallSupport:
+    - (263) 772 000 868
+    - (263) 772 000 865

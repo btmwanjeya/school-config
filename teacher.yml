@@ -1,0 +1,11 @@
+build:
+  version: "104.104.104"
+
+teacher:
+  message: "Default! API environment"
+  contactDetails:
+    name: "Kylie Mwanjeya - Default Tech Lead"
+    email: "kylie@gmail.com"
+  onCallSupport:
+    - (263) 772 999 868
+    - (263) 772 999 865

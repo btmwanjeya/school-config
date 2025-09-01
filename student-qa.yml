@@ -1,0 +1,11 @@
+build:
+  version: "2.0.2"
+
+student:
+  message: "QA! API environment"
+  contactDetails:
+    name: "Kuku Mwanjeya - QA Lead"
+    email: "benard.mwanjeya@gmail.com"
+  onCallSupport:
+    - (263) 772 447 868
+    - (263) 772 447 865
