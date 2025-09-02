@@ -2,12 +2,12 @@ build:
   version: "3.0.3"
 
 student:
-  message: "Production APIs!"
+  message: "Student Prod APIs!"
   contactDetails:
-    name: "Benard Mwanjeya - Lead Developer"
+    name: "Benard Mwanjeya - student Lead Developer"
     email: "{cipher}f36e8461c044906eb0e35eac1ba5444fb662d50982ac47ebf435715c0fb9927dad3126e7662203961efcd35d4d25848a"
   onCallSupport:
     - (263) 772 222 868
-
     - (263) 772 222 865
+
 
