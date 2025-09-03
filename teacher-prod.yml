@@ -1,5 +1,5 @@
 build:
-  version: "10.10.10"
+  version: "101.101.101"
 
 teacher:
   message: "Teacher Prod! API environment"
@@ -8,4 +8,5 @@ teacher:
     email: "benard.mwanjeya@gmail.com"
   onCallSupport:
     - (263) 772 333 868
+
     - (263) 772 333 865
