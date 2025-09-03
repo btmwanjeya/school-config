@@ -1,5 +1,5 @@
 build:
-  version: "101.101.101"
+  version: "b.b.b"
 
 teacher:
   message: "Teacher Prod! API environment"
@@ -10,3 +10,4 @@ teacher:
     - (263) 772 333 868
 
     - (263) 772 333 865
+
