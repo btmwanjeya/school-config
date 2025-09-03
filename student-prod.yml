@@ -1,5 +1,5 @@
 build:
-  version: "z.z.z"
+  version: "i.i.i"
 
 student:
   message: "Student Prod APIs!"
@@ -9,6 +9,7 @@ student:
   onCallSupport:
     - (263) 772 222 868
     - (263) 772 222 865
+
 
 
 
