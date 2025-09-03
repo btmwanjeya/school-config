@@ -1,5 +1,5 @@
 build:
-  version: "99.99.99"
+  version: "a.a.a"
 
 subject:
   message: "Subject Production APIs!"
@@ -10,3 +10,4 @@ subject:
     - (263) 772 000 868
 
     - (263) 772 000 865
+
