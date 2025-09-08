@@ -1,5 +1,5 @@
 server:
-  port: 4444
+  port: 8087
 
 eureka:
   instance:
@@ -8,4 +8,5 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
     service-url:
-      defaultZone: http://${uereka.instance.hostname}:${server.port}/eureka/
+
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
